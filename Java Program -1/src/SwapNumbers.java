@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class SwapNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        1
+
         int num1 = scanner.nextInt();
         int num2 = scanner.nextInt();
         System.out.println("Before Swap");
